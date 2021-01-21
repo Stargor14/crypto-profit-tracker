@@ -6,4 +6,4 @@ It also features a profit calculator so that you can pre plan trades or see the 
 Using the os module I added a feature to delete all past orders for convenience.
 In the lower left area of the gui there is a graph that plots all of your past trades, up to 100. 
 
-I'd like to figure out a way to expand the graph to be longer than 100 orders or higher than 100$, but I am too lazy to that rn.
+I'd like to figure out a way to expand the graph to be longer than 100 orders or higher than 100$, but I am too lazy to do that rn.
